@@ -12,6 +12,8 @@ A simple and clean weather app made with HTML, CSS, and JavaScript. Just type a 
 - 🎯 Fully responsive and mobile-friendly UI
 
 ## 🖼️ Screenshots
+(images/screenshot/Home.png)
+
 | London | Canada |
 |--------|--------|
-| ![London](images/screenshots/london.png) | ![Canada](images/screenshots/canada.png) |
+| ![London](images/screenshot/london.png) | ![Canada](images/screenshot/canada.png) |
